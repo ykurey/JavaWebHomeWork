@@ -11,7 +11,8 @@
 ### 作業2
 * url : template/homeWork2/index.html
 * 三支Servlet，一支html
-* 抽獎（轉發練習）
+* 主要getRequestDispatcher 轉發練習
+* 抽獎
 
 ### 作業3
 * url : template/homeWork3/index.jsp
